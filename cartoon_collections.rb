@@ -5,7 +5,7 @@ end
 
 def summon_captain_planet
   veggies = ["carrot", "cucumber", "pepper"]
-  result = summon_captain_planet(veggies)
+  result =  ["carrot", "cucumber", "pepper"]
   
   
   
