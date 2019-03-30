@@ -3,8 +3,9 @@ def roll_call_dwarves
     print dwarves
 end
 
-def summon_captain_planet# code an argument here
-  # Your code here
+def summon_captain_planet
+  
+  
 end
 
 def long_planeteer_calls# code an argument here
